@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="format_excel" />
+        <module name="upload_dir" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="format_excel" target="1.5" />
+      <module name="upload_dir" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
