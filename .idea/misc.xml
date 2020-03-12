@@ -2,12 +2,14 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/upload_dir" />
+    <file type="web" url="file://$PROJECT_DIR$/user_login" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/format_excel/pom.xml" />
         <option value="$PROJECT_DIR$/upload_dir/pom.xml" />
+        <option value="$PROJECT_DIR$/user_login/pom.xml" />
       </list>
     </option>
   </component>

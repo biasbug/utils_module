@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/user_login/dao_module/dao_module.iml" filepath="$PROJECT_DIR$/user_login/dao_module/dao_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/format_excel/format_excel.iml" filepath="$PROJECT_DIR$/format_excel/format_excel.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload_dir/upload_dir.iml" filepath="$PROJECT_DIR$/upload_dir/upload_dir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_login/user_login.iml" filepath="$PROJECT_DIR$/user_login/user_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/utils_module.iml" filepath="$PROJECT_DIR$/.idea/utils_module.iml" />
     </modules>
   </component>

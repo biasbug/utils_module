@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dao_module" />
         <module name="format_excel" />
         <module name="upload_dir" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dao_module" target="1.7" />
       <module name="format_excel" target="1.5" />
       <module name="upload_dir" target="1.7" />
+      <module name="user_login" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
